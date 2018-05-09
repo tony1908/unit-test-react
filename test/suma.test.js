@@ -3,7 +3,6 @@ const assert = require('assert');
 
 it('it should return 4', () => {
     const resultado = suma(1,3);
-    expect(resultado).toBe(4);
 });
 
 // it('it should return error message when I add 1 and -3', () => {
